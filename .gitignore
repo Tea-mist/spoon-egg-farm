@@ -1,0 +1,16 @@
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+
+# PyCharm IDE配置
+.idea/
+*.iml
+
+# 日志、临时文件
+*.log
+*.tmp
